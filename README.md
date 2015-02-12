@@ -12,6 +12,11 @@ Irreproducible Discovery Rate (IDR)
 git clone --recursive https://github.com/nboley/idr.git
 ```
 
+* cd into the IDR directory
+```
+cd idr
+```
+
 * Then follow the commands below 
 ```
 (sudo) python3 setup.py install
