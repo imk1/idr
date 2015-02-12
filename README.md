@@ -7,7 +7,7 @@ Irreproducible Discovery Rate (IDR)
 
 ### Building IDR
 
-Dependencies: Python 3, Cython
+Dependencies: Python 3, Cython, numpy
 
 * Get the current repo
 ```
