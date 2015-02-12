@@ -35,7 +35,7 @@ idr -h
 Sample idr run using test peak files in the repo
 
 ```
-idr --samples ../idr/test/data/peak1 ../idr/test/data/peak2
+idr --samples ../idr/tests/data/peak1 ../idr/tests/data/peak2
 ```
 
 The main contributors of IDR code:
