@@ -7,13 +7,16 @@ Irreproducible Discovery Rate (IDR)
 
 ### Building IDR
 
-Dependencies:
-Python 3
-Cython
+Dependencies: Python 3, Cython
 
 * Get the current repo
 ```
 git clone --recursive https://github.com/nboley/idr.git
+```
+
+* Go into the idr directory
+```
+cd idr
 ```
 
 * Then follow the commands below 
